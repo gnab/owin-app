@@ -22,7 +22,7 @@ namespace KatanaTest
 				eArgs.Cancel = true;
 			};
 
-			using (WebApp.Start<Startup>(port))
+			using (WebApp.Start<Startup>(string.Format("http://*:{0}", port)))
 			{
 				Console.WriteLine("Started");
 				_quitEvent.WaitOne();
