@@ -12,7 +12,8 @@ git clone https://github.com/gnab/owin-app
 
 ```
 heroku create
-heroku config:add BUILDPACK_URL=https://github.com/friism/heroku-buildpack-mono/git push heroku master
+heroku config:add BUILDPACK_URL=https://github.com/friism/heroku-buildpack-mono/
+git push heroku master
 ```
 
 ### Credits
