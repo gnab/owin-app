@@ -1,1 +1,1 @@
-web: mono KatanaTest.exe $PORT
+web: mono OwinApp.exe $PORT

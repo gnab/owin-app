@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatanaTest", "KatanaTest\KatanaTest.csproj", "{35CC93EE-21F7-41E4-80A5-718A72DFE1EF}"
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinApp", "OwinApp\OwinApp.csproj", "{35CC93EE-21F7-41E4-80A5-718A72DFE1EF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{82A95A8A-A940-4AFF-8B3B-A1BE33B63530}"
 	ProjectSection(SolutionItems) = preProject

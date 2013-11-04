@@ -2,7 +2,7 @@
 using System;
 using System.Threading;
 
-namespace KatanaTest
+namespace OwinApp
 {
 	public class Program
 	{
